@@ -1,7 +1,7 @@
 # HTMLDers2
 HTML Giriş Ders 2
 # A Tagının Kullanımı
-
+ 
 Bu HTML dosyası, `<a>` etiketinin kullanımının devamını ve sayfa içinde metin başlıklarına hızlı geçiş yapmayı göstermektedir. Ayrıca, başlıklara doğrudan bağlantılar sağlamak için `id` özniteliği kullanılmıştır.
 
 ## Sayfa Gezintisi
